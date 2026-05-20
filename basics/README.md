@@ -5,3 +5,4 @@ Task 4 shows the command that displays content in long format
 Task 5 shows the command that display directory's contente including hidden files
 Task 6 shows the command that displays content including hidden files and user and group id
 Task 7 creates a directory inside tmp directory
+Task 8 moves a file from one folder to another
