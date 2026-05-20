@@ -15,3 +15,4 @@ Task 14 creates a symbolic link
 Task 15 copies all html files that were not present in the parent of the wd to the wd
 Task 16 moves all files starting with uppercase letters
 Task 17 deltes all files ending with ~
+Task 18 creates a tree of directories using -p argument
