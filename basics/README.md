@@ -10,3 +10,4 @@ Task 9 removes a file in a directory
 Task 10 removes a directory
 Task 11 moves back to the previous directory
 Task 12 lists files in the current, parent of current and boot directories
+Task 13 prints the type of file
