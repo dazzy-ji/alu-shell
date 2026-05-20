@@ -7,3 +7,4 @@ Task 6 shows the command that displays content including hidden files and user a
 Task 7 creates a directory inside tmp directory
 Task 8 moves a file from one folder to another
 Task 9 removes a file in a directory
+Task 10 removes a directory
