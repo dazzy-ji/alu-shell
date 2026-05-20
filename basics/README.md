@@ -12,3 +12,4 @@ Task 11 moves back to the previous directory
 Task 12 lists files in the current, parent of current and boot directories
 Task 13 prints the type of file
 Task 14 creates a symbolic link
+Task 15 copies all html files that were not present in the parent of the wd to the wd
