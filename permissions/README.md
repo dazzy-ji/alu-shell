@@ -4,3 +4,4 @@ Task 2 prints all users
 Task 3 changes file ownership
 Task 4 creates an empty file
 Task 5 gives executive permissions to file owner
+Task 6 gives executive permissions to owner and group but read only to others
