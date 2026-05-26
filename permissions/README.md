@@ -6,3 +6,4 @@ Task 4 creates an empty file
 Task 5 gives executive permissions to file owner
 Task 6 gives executive permissions to owner and group but read only to others
 Task 7 gives exective permissions to everybody
+Task 8 gives permissions to others only
