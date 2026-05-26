@@ -12,3 +12,4 @@ Task 10 sets the mode to olleh's mode
 Task 11 gives permissions to all sub directories for everybody
 Task 12 creates a directory with the permissions 751
 Task 13 changes file ownership to a group
+Task 14 changes for both owner and group
