@@ -9,3 +9,4 @@ Task 7 gives exective permissions to everybody
 Task 8 gives permissions to others only
 Task 9 sets the mode of the file to 753
 Task 10 sets the mode to olleh's mode
+Task 11 gives permissions to all sub directories for everybody
