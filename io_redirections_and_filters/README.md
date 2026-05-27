@@ -1,1 +1,2 @@
-Task 1 prints Hello, World
+Task 0 prints Hello, World
+Task 1 prints "(Ôo)'
