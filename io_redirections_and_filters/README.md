@@ -22,3 +22,4 @@ Task 20 Creates a script that removes all letters c and c from input
 Task 21 writes a script that reverses its input
 Task 22 displays all users and their home directories, sorted by users
 Task 23 write a command that finds all empty files and directories in the current directory and all sub-directories
+Task 24 list all files with .gif extension
