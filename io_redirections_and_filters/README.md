@@ -17,3 +17,4 @@ Task 15 displays the number of lines containing a pattern
 Task 16 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 Task 17 displays all ines that do not contain the said pattern
 TAsk 18 Display all lines of the file starting with a letter	
+Task 19 replaces all characters A and c from input to z and e respectively
