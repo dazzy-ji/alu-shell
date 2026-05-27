@@ -3,3 +3,4 @@ Task 1 prints "(Ôo)'
 Task 2 displays contents if a file
 Task 3 displays contents of two files
 Task 4 displays the last 10 lines of a file
+Task 5 displays first 10 lines of a file
