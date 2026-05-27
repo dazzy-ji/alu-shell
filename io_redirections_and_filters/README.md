@@ -9,3 +9,4 @@ Task 7 prints inside a new file
 Task 8 prints the result of ls-la into a file
 TAsk 9 duplicates a line in a file
 Task 10 delets all .js files
+Task 11 counts number of directories and sub directories
