@@ -12,3 +12,4 @@ Task 10 delets all .js files
 Task 11 counts number of directories and sub directories
 Task 12 displays the newest files
 Task 13 takes a list of words as input and prints only words that appear exactly once.
+TAsk 14 Display lines containing the pattern “root” from the file /etc/passwd
