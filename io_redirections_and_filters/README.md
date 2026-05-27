@@ -7,4 +7,5 @@ Task 5 displays first 10 lines of a file
 TAsk 6 displays the 3rd line of a file
 Task 7 prints inside a new file
 Task 8 prints the result of ls-la into a file
-TAsk 9 duplicates a line in afile
+TAsk 9 duplicates a line in a file
+Task 10 delets all .js files
