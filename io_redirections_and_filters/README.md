@@ -5,3 +5,4 @@ Task 3 displays contents of two files
 Task 4 displays the last 10 lines of a file
 Task 5 displays first 10 lines of a file
 TAsk 6 displays the 3rd line of a file
+Task 7 prints inside a new file
