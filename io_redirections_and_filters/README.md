@@ -19,3 +19,4 @@ Task 17 displays all ines that do not contain the said pattern
 TAsk 18 Display all lines of the file starting with a letter	
 Task 19 replaces all characters A and c from input to z and e respectively
 Task 20 Creates a script that removes all letters c and c from input
+Task 21 writes a script that reverses its input
