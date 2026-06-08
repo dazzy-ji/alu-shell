@@ -12,7 +12,6 @@ start() {
 stop() {
     kill "$(cat "$PID_FILE")"
     rm -f "$PID_FILE"
-    echo "manage_my_process stopped"
 }
 
 case "$1" in
@@ -21,6 +20,7 @@ case "$1" in
         ;;
     stop)
         stop
+        echo "manage_my_process stopped"
         ;;
     restart)
         stop
